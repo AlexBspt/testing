@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 	<head>
@@ -8,8 +7,6 @@
 	<body>
 		<div id='header'>
 		</div>
-
-
 
 		<div >
 			<form name="set", action = "", method="post">
